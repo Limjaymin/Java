@@ -7,7 +7,7 @@ public class Test7 {
 		for (int i = 0;i < 10;i++) 
 			System.out.println(i+" ");
 		System.out.println("");
-		
+		// 배열
 		int [] a = {100,200,300};
 		for(int i : a)
 			System.out.print(i+" ");
