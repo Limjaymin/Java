@@ -12,7 +12,8 @@ public class Test7 {
 		for(int i : a)
 			System.out.print(i+" ");
 		System.out.println("");
-
+		
+		// ArrayList
 		ArrayList<Integer> l = new ArrayList<Integer>();
 		l.add(100);l.add(101);l.add(102);
 		for (Integer i : l)
